@@ -1,1 +1,37 @@
 /* add your CSS here */
+
+.img-displayed{
+	width: 300px;
+	display: block;
+	margin: auto;
+}
+
+.itl{
+	font-style: italic;
+}
+
+.bld{
+	font-weight: bold;
+}
+
+.ul-unstyled{
+	list-style: none;
+	padding-left: 0;
+}
+
+.box-main{
+	width: 320px;
+	margin: auto;
+	border: 3px solid lightgray;
+	box-shadow: 10px 10px 5px 0px rgba(200,200,200,1);
+}
+
+.box-sub{
+	width: 300px;
+	margin: auto;
+	border: 3px solid lightgray;
+}
+
+.pad{
+	padding: 10px;
+}
